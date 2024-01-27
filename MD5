@@ -1,8 +1,7 @@
-99476e33108a834b78e456f44ed277cd *DESCRIPTION
+bf59b79616430f7e89db091c67c4c9ca *DESCRIPTION
 84c66a39dbcea763fbb99556410b1914 *NAMESPACE
 85c5b8ead2f7605f433706fd1126f5a5 *R/lmm.R
 977bb2aa9c2eb2811718e0d0c9365534 *R/package-Rdta.R
-ce0e0da626bed15e2ea1ad0ce726ed89 *build/partial.rdb
-3055a7da1b00fb1384048b70018c4005 *inst/REFERENCES.bib
-91f42c8de46c85461d64519d6c3f38b6 *man/Rdta.Rd
-049e214f4a99f67d4b6ffef92ea078e1 *man/lmm.Rd
+8faf250d78a120ba4c7ea2186efddd24 *build/partial.rdb
+335d084dc1ea14b43abccb4735c6c72a *man/Rdta.Rd
+1bdd129bfc2ac671948b3682d10ac2b1 *man/lmm.Rd

@@ -2,7 +2,6 @@
 % Please edit documentation in R/package-Rdta.R
 \docType{package}
 \name{Rdta}
-\alias{Rdta}
 \alias{Rdta-package}
 \title{Data Transforming Augmentation for Linear Mixed Models}
 \description{
@@ -12,14 +11,14 @@ The R package \pkg{Rdta} provides a toolbox to fit univariate and multivariate l
 \tabular{ll}{
 Package: \tab Rdta\cr
 Type: \tab Package\cr
-Version: \tab 1.0.0\cr
-Date: \tab 2020-1-7\cr
+Version: \tab 1.0.1\cr
+Date: \tab 2024-1-26\cr
 License: \tab GPL-2\cr
 Main functions: \tab \code{\link{lmm}}\cr
 }
 }
 \references{
-\insertRef{tak_data_2019}{Rdta}
+Tak, You, Ghosh, Su, Kelly (2019), "Data Transforming Augmentation for Heteroscedastic Models" <\doi{10.1080/10618600.2019.1704295}>
 }
 \author{
 Hyungsuk Tak (maintainer), Kisung You, Sujit K. Ghosh, and Bingyue Su
